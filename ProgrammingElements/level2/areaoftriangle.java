@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class areaoftriangle {
     public static void main(String[] args) {
-        
+        areaOfTriangle();
     }
     public static void areaOfTriangle() {
         Scanner input = new Scanner(System.in);

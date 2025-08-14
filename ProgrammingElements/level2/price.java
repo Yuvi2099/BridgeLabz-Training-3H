@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class price {
     public static void main(String[] args) {
-        
+        totalPurchasePrice();
     }
     public static void totalPurchasePrice() {
         Scanner input = new Scanner(System.in);

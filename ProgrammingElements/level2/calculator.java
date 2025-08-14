@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class calculator {
     public static void main(String[] args) {
-        
+        basicCalculator();
     }
     public static void basicCalculator() {
         Scanner input = new Scanner(System.in);

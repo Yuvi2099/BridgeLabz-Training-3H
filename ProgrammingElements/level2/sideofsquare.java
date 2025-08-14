@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class sideofsquare {
     public static void main(String[] args) {
-        
+        sideOfSquare();
     }
     public static void sideOfSquare() {
         Scanner input = new Scanner(System.in);
