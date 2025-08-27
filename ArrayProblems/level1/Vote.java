@@ -1,4 +1,5 @@
 package ArrayProblems.level1;
+
 import java.util.Scanner;
 public class Vote {
     public static void main(String[] args) {
