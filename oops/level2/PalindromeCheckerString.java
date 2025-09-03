@@ -1,7 +1,4 @@
 package oops.level2;
-
-import java.util.;
-
 class PalindromeChecker {
     String text;
 
