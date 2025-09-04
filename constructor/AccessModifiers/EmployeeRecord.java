@@ -1,7 +1,5 @@
 package constructor.AccessModifiers;
 
-import java.util.*;
-
 class EmployeeModel {
     public String employeeID;
     protected String department;
