@@ -1,4 +1,4 @@
-package constructor;
+package constructor.level1;
 
 class Book {
     String title;

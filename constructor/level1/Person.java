@@ -1,4 +1,4 @@
-package constructor;
+package constructor.level1;
 
 class PersonModel {
     private String name;
